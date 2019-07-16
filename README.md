@@ -18,5 +18,4 @@ Part 4 consists of all the models and algorithms, and how they can be applied on
 
 Part 5 is the final presentation which shows the key findings, goals, approach used, limitations and future works.
 
-## Scope
 
