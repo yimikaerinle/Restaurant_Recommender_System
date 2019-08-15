@@ -1,6 +1,6 @@
-## Capstone Project for Data Science Immersive at General Assembly
+## Project Intro
 
-This repository contains notebooks and files for the Data Science and Machine Learning Immersive course at General Assembly London.
+This repository contains notebooks and files which invovle building the Restaurant Recommender System for London based users and tourists. This project was my Capstone Project during my Data science Immersive Course at General Assembly, London.
 
 ## Project Aim
 
