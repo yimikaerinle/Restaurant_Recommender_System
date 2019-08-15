@@ -1,21 +1,19 @@
 ## Project Intro
 
-This repository contains notebooks and files which invovle building the Restaurant Recommender System for London based users and tourists. This project was my Capstone Project during my Data science Immersive Course at General Assembly, London.
+This repository contains notebooks and files which invovle building Restaurant Recommender Systems for London based users and tourists. This project was my Capstone Project during my Data science Immersive Course at General Assembly, London.
 
 ## Project Aim
 
-The aim of this project was to build a restaurant recommender system, which comprised of collaborative filtering, content-based and rank-based recommenders with data scraped from Trip Advisor.
+The aim of this project was to build and test a restaurant recommender systems, using collaborative filtering, content-based and rank-based recommenders with data scraped from Trip Advisor.
 
 ## Contents of the Repository
 
-The first part of this project involved researching and identifying feasible Capstone Project possibilities.
+This repository consists of four major parts, these include:
 
-Part 2 shows how the data was collected using Webscraping tools.
+I. Web Scraping the Data.
+II. Merging the Dataframes.
+III. Exploratory Data Analysis.
+IV. Restaurant Recommender Systems.
 
-Part 3 shows the Exploratory Data Analysis, in particular the distrubution of restaurant ratings.
-
-Part 4 consists of all the models and algorithms, and how they can be applied on the dataset.
-
-Part 5 is the final presentation which shows the key findings, goals, approach used, limitations and future works.
 
 
