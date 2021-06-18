@@ -1,6 +1,6 @@
 ## Project Intro
 
-This repository contains notebooks and files which invovle building Restaurant Recommender Systems for London based users and tourists. This project was my Capstone Project during my Data science Immersive Course at General Assembly, London.
+This repository contains notebooks and files which invovle building Restaurant Recommender Systems for London based users and tourists around the country. This project was my Capstone Project during my Data science Immersive Course at General Assembly, London.
 
 ## Project Aim
 
